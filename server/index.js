@@ -13,7 +13,13 @@ app.get('/', (req, res) => {
 });
 
 app.get('/movies/list', (req, res) => {
-    res.send(movies);
+    const offset = req.query.offset || 0;
+    const from = offset;
+    const to = offset + 10;
+    const moviesSubset = movies.slice(from, to);
+    setTimeout(() => {
+        res.send({movies:moviesSubset, count:movies.length});
+    }, 2000);  
 });
 
 app.get('/movie/:id', (req, res) => {

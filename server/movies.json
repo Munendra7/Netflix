@@ -70,6 +70,354 @@
       "title": "Don't plan Udaipur Trip without watching this Video || Top Places to Visit in Udaipur",
       "poster": "https://yt3.googleusercontent.com/hCaGBw573CDSnCwZMuFf9FZC_qi7EBtEvomDLzEQSFGb20-F_BzaXstIozP2Xh2HoCON15ic=s160-c-k-c0x00ffffff-no-rj",
       "videoUrl": "https://www.youtube-nocookie.com/embed/hhOr0bVH8z4?autoplay=1"
+    },
+    {
+      "id": 13,
+      "title": "Gladiator",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8d/Gladiator_ver1.jpg",
+      "videoUrl": "https://www.youtube.com/embed/owK1qxDselE?autoplay=1"
+    },
+    {
+      "id": 14,
+      "title": "The Lion King",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/4sj1MT05lAA?autoplay=1"
+    },
+    {
+      "id": 15,
+      "title": "Jurassic Park",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/lc0UehYemQA?autoplay=1"
+    },
+    {
+      "id": 16,
+      "title": "Titanic",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/22/Titanic_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/kVrqfYjkTdQ?autoplay=1"
+    },
+    {
+      "id": 17,
+      "title": "The Avengers",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/TheAvengers2012Poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/eOrNdBpGMv8?autoplay=1"
+    },
+    {
+      "id": 18,
+      "title": "Black Panther",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/0c/Black_Panther_film_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/xjDjIWPwcPU?autoplay=1"
+    },
+    {
+      "id": 19,
+      "title": "Spider-Man: No Way Home",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/JfVOs4VSpmA?autoplay=1"
+    },
+    {
+      "id": 20,
+      "title": "Avatar",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d7/Avatar_movie_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/5PSNL1qE6VY?autoplay=1"
+    },
+    {
+      "id": 21,
+      "title": "Deadpool",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/46/Deadpool_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/ONHBaC-pfsk?autoplay=1"
+    },
+    {
+      "id": 22,
+      "title": "Doctor Strange",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c7/Doctor_Strange_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/HSzx-zryEgM?autoplay=1"
+    },
+    {
+      "id": 23,
+      "title": "Wonder Woman",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg",
+      "videoUrl": "https://www.youtube.com/embed/1Q8fG0TtVAY?autoplay=1"
+    },
+    {
+      "id": 24,
+      "title": "Thor: Ragnarok",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/ue80QwXMRHg?autoplay=1"
+    },
+    {
+      "id": 25,
+      "title": "Iron Man",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG",
+      "videoUrl": "https://www.youtube.com/embed/8hYlB38asDY?autoplay=1"
+    },
+    {
+      "id": 26,
+      "title": "The Batman",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/79/The_Batman_%28film%29_poster.jpeg",
+      "videoUrl": "https://www.youtube.com/embed/mqqft2x_Aa4?autoplay=1"
+    },
+    {
+      "id": 27,
+      "title": "Dune",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/87/Dune_%282021_film%29_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/n9xhJrPXop4?autoplay=1"
+    },
+    {
+      "id": 28,
+      "title": "Frozen",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/TbQm5doF_Uc?autoplay=1"
+    },
+    {
+      "id": 29,
+      "title": "Inside Out",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/0a/Inside_Out_%282015_film%29_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/seMwpP0yeu4?autoplay=1"
+    },
+    {
+      "id": 30,
+      "title": "The Incredibles",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/ec/The_Incredibles.jpg",
+      "videoUrl": "https://www.youtube.com/embed/eZbzbC9285I?autoplay=1"
+    },
+    {
+      "id": 31,
+      "title": "Coco",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/Rvr68u6k5sI?autoplay=1"
+    },
+    {
+      "id": 32,
+      "title": "The Matrix",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/vKQi3bBA1y8?autoplay=1"
+    },
+    {
+      "id": 33,
+      "title": "Incredibles 2",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/27/The_Incredibles_2.jpg",
+      "videoUrl": "https://www.youtube.com/embed/i5qOzqD9Rms?autoplay=1"
+    },
+    {
+      "id": 34,
+      "title": "Shrek",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Shrek.jpg",
+      "videoUrl": "https://www.youtube.com/embed/CwXOrWvPBPk?autoplay=1"
+    },
+    {
+      "id": 35,
+      "title": "Mad Max: Fury Road",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
+      "videoUrl": "https://www.youtube.com/embed/hEJnMQG9ev8?autoplay=1"
+    },
+    {
+      "id": 36,
+      "title": "The Dark Knight Rises",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/GokKUqLcvD8?autoplay=1"
+    },
+    {
+      "id": 37,
+      "title": "The Greatest Showman",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/10/The_Greatest_Showman_poster.png",
+      "videoUrl": "https://www.youtube.com/embed/AXCTMGYUg9A?autoplay=1"
+    },
+    {
+      "id": 38,
+      "title": "How to Train Your Dragon",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/99/How_to_Train_Your_Dragon_Poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/oKiYuIsPxYk?autoplay=1"
+    },
+    {
+      "id": 39,
+      "title": "The Lego Movie",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/10/The_Lego_Movie_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/fZ_JOBCLF-I?autoplay=1"
+    },
+    {
+      "id": 40,
+      "title": "The Wolf of Wall Street",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1f/WallStreet2013poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/iszwuX1AK6A?autoplay=1"
+    },
+    {
+      "id": 41,
+      "title": "Interstellar",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/2LqzF5WauAw?autoplay=1"
+    },
+    {
+      "id": 42,
+      "title": "The Revenant",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/b6/The_Revenant_2015_film_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/LoebZZ8K5N0?autoplay=1"
+    },
+    {
+      "id": 43,
+      "title": "Thor: Ragnarok",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/ue80QwXMRHg?autoplay=1"
+    },
+    {
+      "id": 44,
+      "title": "Toy Story 4",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/20/Toy_Story_4_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/wmiIUN-7qhE?autoplay=1"
+    },
+    {
+      "id": 45,
+      "title": "Zootopia",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/ea/Zootopia.jpg",
+      "videoUrl": "https://www.youtube.com/embed/jWM0ct-OLsM?autoplay=1"
+    },
+    {
+      "id": 46,
+      "title": "The Secret Life of Pets",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/64/The_Secret_Life_of_Pets_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/eWI_Jsw9qUs?autoplay=1"
+    },
+    {
+      "id": 47,
+      "title": "Frozen II",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c7/Frozen_2_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/Zi4LMpSDccc?autoplay=1"
+    },
+    {
+      "id": 48,
+      "title": "Aladdin (2019)",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/90/Aladdin_%282019_film%29_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/foyufD52aog?autoplay=1"
+    },
+    {
+      "id": 49,
+      "title": "Moana",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/Moana_Teaser_Poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/LKFuXETZUsI?autoplay=1"
+    },
+    {
+      "id": 50,
+      "title": "The Jungle Book",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a4/The_Jungle_Book_%282016%29.jpg",
+      "videoUrl": "https://www.youtube.com/embed/C4qgAaxB_pc?autoplay=1"
+    },
+    {
+      "id": 51,
+      "title": "The Lion King (2019)",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/Lion_King_2019_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/4CbLXeGSDxg?autoplay=1"
+    },
+    {
+      "id": 52,
+      "title": "Beauty and the Beast (2017)",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d6/Beauty_and_the_Beast_2017_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/e3Nl_TCQXuw?autoplay=1"
+    },
+    {
+      "id": 53,
+      "title": "Cinderella (2015)",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c2/Cinderella_2015_official_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/20DF6U1HcGQ?autoplay=1"
+    },
+    {
+      "id": 54,
+      "title": "Maleficent",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/55/Maleficent_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/w-XO4XiRop0?autoplay=1"
+    },
+    {
+      "id": 55,
+      "title": "Alice in Wonderland (2010)",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/Alice_in_Wonderland_%282010_film%29.jpg",
+      "videoUrl": "https://www.youtube.com/embed/9POCgSRVvf0?autoplay=1"
+    },
+    {
+      "id": 56,
+      "title": "The Little Mermaid",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/75/The_Little_Mermaid_%28Disney%29.jpg",
+      "videoUrl": "https://www.youtube.com/embed/ZGZX5-PAwR8?autoplay=1"
+    },
+    {
+      "id": 57,
+      "title": "Mulan (2020)",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Mulan_%282020_film%29_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/KK8FHdFluOQ?autoplay=1"
+    },
+    {
+      "id": 58,
+      "title": "Pocahontas",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/5d/Pocahontas_%281995_film%29_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/5aZwv5c3ZP4?autoplay=1"
+    },
+    {
+      "id": 59,
+      "title": "Tangled",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a8/Tangled_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/2f516ZLyC6U?autoplay=1"
+    },
+    {
+      "id": 60,
+      "title": "Brave",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/96/Brave_Poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/TEHWDA_6e3M?autoplay=1"
+    },
+    {
+      "id": 61,
+      "title": "Big Hero 6",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/Big_Hero_6_%28film%29_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/z3biFxZIJOQ?autoplay=1"
+    },
+    {
+      "id": 62,
+      "title": "Raya and the Last Dragon",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/6f/Raya_and_the_Last_Dragon_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/1VIZ89FEjYI?autoplay=1"
+    },
+    {
+      "id": 63,
+      "title": "Soul",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/Soul_%282020_film%29.jpg",
+      "videoUrl": "https://www.youtube.com/embed/xOsLIiBStEs?autoplay=1"
+    },
+    {
+      "id": 64,
+      "title": "Luca",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/Luca_%282021_film%29_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/YdAIBlPVe9s?autoplay=1"
+    },
+    {
+      "id": 65,
+      "title": "Encanto",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7b/Encanto_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/5giLZ1bY4u8?autoplay=1"
+    },
+    {
+      "id": 66,
+      "title": "Turning Red",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/Turning_Red_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/8gJ9fJz8b2c?autoplay=1"
+    },
+    {
+      "id": 67,
+      "title": "The Mitchells vs. the Machines",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/The_Mitchells_vs._the_Machines_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/2TzItV3g7fU?autoplay=1"
+    },
+    {
+      "id": 68,
+      "title": "Rumble",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/Rumble_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/1ZP3gZv8fj4?autoplay=1"
+    },
+    {
+      "id": 69,
+      "title": "The Boss Baby: Family Business",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1b/The_Boss_Baby_Family_Business_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/7DnC2n5w9cM?autoplay=1"
+    },
+    {
+      "id": 70,
+      "title": "Hotel Transylvania: Transformania",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/Hotel_Transylvania_Transformania_poster.jpg",
+      "videoUrl": "https://www.youtube.com/embed/8jZ0ZgQf9fU?autoplay=1"
     }
 ]
   

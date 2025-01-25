@@ -1,6 +1,7 @@
 import { useEffect, useReducer } from 'react';
 import axios from 'axios';
 import { Movie } from '../types';
+import React from 'react';
 
 interface State {
     movies: Movie[];
@@ -37,15 +38,19 @@ const reducer = (state: State, action: Action): State => {
 };
 
 
-const useMoviesList = () => {
+const useMoviesList = (offset:number) => {
 
     const [{ movies, loading, error }, dispatch] = useReducer(reducer, initialState);
 
+    const [count, setCount] = React.useState<number>(0);
+
     const fetchMovies = async () => {
+        if(movies && count && movies.length>=count) return;
         try {
             dispatch({ type: Actiontype.Loading });
-            const response = await axios.get('http://localhost:8080/movies/list');
-            dispatch({ type: Actiontype.Success, payload: response.data });
+            const response = await axios.get(`http://localhost:8080/movies/list?offset=${offset}`);
+            setCount(response.data.count);
+            dispatch({ type: Actiontype.Success, payload: [...movies,...response.data.movies] });
         } catch (err: any) {
             dispatch({ type: Actiontype.Error, payload: err.message });
         }
@@ -53,7 +58,7 @@ const useMoviesList = () => {
 
     useEffect(() => {
         fetchMovies();
-    }, []);
+    }, [offset]);
 
     return { movies, loading, error };
 };
