@@ -4,8 +4,14 @@ import BillBoard from '../components/BillBoard';
 import MovieList from '../components/MovieList';
 import useMoviesList from '../hooks/useMoviesList';
 import LoadingCards from '../components/LoadingCards';
+import { useSelector } from 'react-redux';
+import { RootState } from '../app/store';
 
 const BrowsePage: React.FC = () => {
+
+    const {user, isloading} = useSelector((state:RootState) => state.user.value);
+
+    console.log(user, isloading);
 
     const [offset, setOffset] = React.useState<number>(0);
     const {movies, loading, error} = useMoviesList(offset);

@@ -1,14 +1,24 @@
 import React, { useState } from "react";
 import NavBar from "../components/NavBar";
+import useAuth from "../hooks/useAuth";
+import { useNavigate } from "react-router-dom";
 
 const LoginPage: React.FC = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const { login } = useAuth();
+  const navigate = useNavigate();
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     console.log("Email:", email);
     console.log("Password:", password);
+    const response = await login({ email, password });
+    console.log("Response:", response);
+    if(response)
+    {
+      navigate("/browse");
+    }
   };
 
   return (
@@ -17,7 +27,7 @@ const LoginPage: React.FC = () => {
       <div
         className="absolute inset-0 bg-cover bg-center -z-10"
         style={{
-          backgroundImage: `url("https://assets.nflxext.com/ffe/siteui/vlv3/10f40e60-86b2-42d8-8d4d-c589f89cbf58/823d4775-45a5-4195-8d0f-dbe04b5185b3/IN-en-20230807-popsignuptwoweeks-perspective_alpha_website_medium.jpg")`,
+          backgroundImage: `url("https://assets.nflxext.com/ffe/siteui/vlv3/7a8c0067-a424-4e04-85f8-9e25a49a86ed/web/IN-en-20250120-TRIFECTA-perspective_860a95da-c386-446e-af83-fef8ddd80803_large.jpg")`,
         }}
       ></div>
 

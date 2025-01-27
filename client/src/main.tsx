@@ -8,6 +8,9 @@ import PlansPage from './pages/PlansPage.tsx';
 import BrowsePage from './pages/BrowsePage.tsx';
 import WatchPage from './pages/WatchPage.tsx';
 import NotFoundPage from './pages/NotFoundPage.tsx';
+import {Provider} from "react-redux";
+import {store} from "./app/store";
+import PrivateRoutes from './utils/PrivateRoutes.tsx';
 
 
 const router  = createBrowserRouter(
@@ -16,13 +19,15 @@ const router  = createBrowserRouter(
       <Route path="/" element={<HomePage />} />
       <Route path="/login" element={<LoginPage />} />
       <Route path="/plans" element={<PlansPage />} />
-      <Route path="/browse" element={<BrowsePage />} />
-      <Route path="/browse/watch/:id" element={<WatchPage />} />
+      <Route path="/browse" element={<PrivateRoutes />}>
+        <Route path="/browse" element={<BrowsePage />} />
+        <Route path="/browse/watch/:id" element={<WatchPage />} />
+      </Route>
       <Route path="*" element={<NotFoundPage />} />
     </Route>
   )
 )
 
 createRoot(document.getElementById('root')!).render(
-  <RouterProvider router={router} />
+  <Provider store={store}> <RouterProvider router={router} /> </Provider>
 )
