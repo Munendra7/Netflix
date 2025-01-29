@@ -11,17 +11,20 @@ import NotFoundPage from './pages/NotFoundPage.tsx';
 import {Provider} from "react-redux";
 import {store} from "./app/store";
 import PrivateRoutes from './utils/PrivateRoutes.tsx';
+import PublicRoutes from './utils/PublicRoutes.tsx';
 
 
 const router  = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<App />} >
-      <Route path="/" element={<HomePage />} />
-      <Route path="/login" element={<LoginPage />} />
-      <Route path="/plans" element={<PlansPage />} />
+      <Route path="/" element={<PublicRoutes />}>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/login" element={<LoginPage />} />
+      </Route>
       <Route path="/browse" element={<PrivateRoutes />}>
         <Route path="/browse" element={<BrowsePage />} />
         <Route path="/browse/watch/:id" element={<WatchPage />} />
+        <Route path="/browse/plans" element={<PlansPage />} />
       </Route>
       <Route path="*" element={<NotFoundPage />} />
     </Route>
